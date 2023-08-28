@@ -27,7 +27,7 @@ headers = {
 Step 1: Understand the Captcha Mechanism.
 
 
-![Image](2.png)
+![Image](/2.png)
 
 ##Step 2: Configure the Script and Initiate the Attack
 
