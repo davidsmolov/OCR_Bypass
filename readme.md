@@ -22,27 +22,24 @@ headers = {
     # Include any other necessary headers for the password reset request
     'Connection': 'close'
 }
+```
 
-##Usage Example:
+## Usage Example:
 Step 1: Understand the Captcha Mechanism.
 
+![Step 1](2.png)
 
-![Image](https://github.com/davidsmolov/OCR_Bypass/blob/main/1.png?raw=true)
+Step 2: Configure the Script and Initiate the Attack
 
-##Step 2: Configure the Script and Initiate the Attack
+![Step 2](1.png)
 
-![Image](1.png)
+Step 3: Witness Automated Captcha Bypass in Action
 
+![Step 3](3.png)
 
-##Step 3: Witness Automated Captcha Bypass in Action
-
-![Image](3.png)
-
-
-##Contributing
+## Contributing
 A big shoutout to Tal Argoni for providing the opportunity to contribute to this project.
 
-##License
+## License
 Copyright © 2023 David Smolovich.
-This code is made available under the terms of the license. Please use it exclusively for educational purposes. We encourage learning and responsible use of technology,
-
+This code is made available under the terms of the license. Please use it exclusively for educational purposes. We encourage learning and responsible use of technology.
