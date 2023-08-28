@@ -1,37 +1,48 @@
-# OCR Bypass
+# Automated Captcha Bypass using Google VisionAI OCR
 
-This is a script that uses the Google VisionAI API to bypass the OCR on a website. It is intended to be used for educational purposes only.
+Welcome to the OCR Bypass project, where we explore an intriguing experiment involving the Google VisionAI API to navigate past website captchas. Please note that this project is intended for educational purposes.
 
-## Prequisites
+## Prerequisites
 
-Before you can use this script, you will need to install the following:
-Google Cloud SDK
-Python 3.7
-Google Cloud Vision API
-Get a ServiceAccountToken.json
+Before diving into this script, ensure you have the following set up:
+- Google Cloud SDK
+- Python 3.7 or higher
+- Google Cloud Vision API
+- Obtain a `ServiceAccountToken.json` from Google Cloud
 
-## Usage
+## Getting Started
 
 ```python
-mail = "{{victim@victim.com}}" # Change this to the email address of the victim
-base_url = "{{Base_URL}}"  # Change this to the URL of the password reset page
-refresh_url = '{{Catpcha Refresh Page}}' # Change this to the URL of the captcha refresh page
+victim_email = "{{victim@victim.com}}"  # Replace with the target victim's email address
+base_url = "{{Base_URL}}"  # Modify with the URL of the password reset page
+captcha_refresh_url = '{{Captcha_Refresh_Page}}'  # Adjust to the URL of the captcha refresh page
 
 headers = {
-    'Host': '{{Host}}', # Change this to the host of the password reset page
-    #Add any other headers that are required to send the password reset request
+    'Host': '{{Host}}',  # Set to the host of the password reset page
+    # Include any other necessary headers for the password reset request
     'Connection': 'close'
 }
 
-```
-
-## Contributing
-
-Thanks to Tal Argoni for the opprotunity to work on this project.
+##Usage Example:
+Step 1: Understand the Captcha Mechanism
 
 
+![Image](2.png)
 
-## License
+##Step 2: Configure the Script and Initiate the Attack
 
+![Image](1.png)
+
+
+##Step 3: Witness Automated Captcha Bypass in Action
+
+![Image](3.png)
+
+
+##Contributing
+A big shoutout to Tal Argoni for providing the opportunity to contribute to this project.
+
+##License
 Copyright © 2023 David Smolovich.
-Feel free to use this code for educational purposes only.
+This code is made available under the terms of the license. Please use it exclusively for educational purposes. We encourage learning and responsible use of technology.
+
