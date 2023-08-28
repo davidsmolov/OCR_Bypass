@@ -26,7 +26,8 @@ headers = {
 ##Usage Example:
 Step 1: Understand the Captcha Mechanism
 
-![Step 1](https://raw.githubusercontent.com/davidsmolov/OCR_Bypass/main/assets/122476428/c493a121-47b7-4ac9-8ade-bb7f03324184.png)
+
+![Step 1]<img width="670" alt="2" src="https://github.com/davidsmolov/OCR_Bypass/assets/122476428/af931637-ac6f-4045-9baa-c4321f1d43c3">
 
 ##Step 2: Configure the Script and Initiate the Attack
 
