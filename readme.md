@@ -27,7 +27,7 @@ headers = {
 Step 1: Understand the Captcha Mechanism
 
 
-<img alt="Step 1" src="https://github.com/davidsmolov/OCR_Bypass/raw/main/assets/122476428/af931637-ac6f-4045-9baa-c4321f1d43c3.png">
+![Image](2.png)
 
 ##Step 2: Configure the Script and Initiate the Attack
 
