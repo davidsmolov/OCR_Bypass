@@ -27,7 +27,7 @@ headers = {
 Step 1: Understand the Captcha Mechanism
 
 
-![Step 1](https://github.com/davidsmolov/OCR_Bypass/raw/main/assets/122476428/af931637-ac6f-4045-9baa-c4321f1d43c3.png)
+![Step 1](https://github-production-user-asset-6210df.s3.amazonaws.com/122476428/263814660-af931637-ac6f-4045-9baa-c4321f1d43c3.png)
 
 ##Step 2: Configure the Script and Initiate the Attack
 
