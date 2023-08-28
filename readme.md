@@ -24,7 +24,7 @@ headers = {
 }
 
 ##Usage Example:
-Step 1: Understand the Captcha Mechanism
+Step 1: Understand the Captcha Mechanism.
 
 
 ![Image](2.png)
@@ -44,5 +44,5 @@ A big shoutout to Tal Argoni for providing the opportunity to contribute to this
 
 ##License
 Copyright © 2023 David Smolovich.
-This code is made available under the terms of the license. Please use it exclusively for educational purposes. We encourage learning and responsible use of technology.
+This code is made available under the terms of the license. Please use it exclusively for educational purposes. We encourage learning and responsible use of technology,
 
